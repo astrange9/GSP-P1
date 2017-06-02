@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GoldenSheafPark-P1",
-    "currentPage": "RequestForm.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -34,7 +34,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#faaf40"
+              "color": "#f7da64"
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oswald', sans-serif",
@@ -1635,12 +1635,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-x",
-          "title": "Camp Kitchen and Group Camping",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "Golden Sheaf Park can be the center of your event. The Park has two Camp Kitchens with a place to cook and store your food for a hunger group event. Each facility has power for small appliances, Fridge and freezer and sinks for clean up.<br>Each area can also be home for the weekend or a couple of days<br>Up to 20 RV Units can camp close to the Camp Kitchen",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -1652,7 +1646,13 @@
             "H3": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header3-x",
+          "title": "Camp Kitchen and Group Camping",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Golden Sheaf Park can be the center of your event. The Park has two Camp Kitchens with a place to cook and store your food for a hunger group event. Each facility has power for small appliances, Fridge and freezer and sinks for clean up.<br>Each area can also be home for the weekend or a couple of days<br>Up to 20 RV Units can camp close to the Camp Kitchen"
         },
         {
           "_styles": {
